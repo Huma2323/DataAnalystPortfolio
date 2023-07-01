@@ -1,6 +1,6 @@
-# Data Analyst Portfolio
+# Data Science and Analytics Portfolio
 
-## Following are my Data Analytics Projects:
+## Following are my Data Science and Analytics Projects:
 
 -	[Analysis of US and Global Transit Infrastructure Costs (R)](https://github.com/Huma2323/Transit-Infrastructure-Costs)
 -	[Trends in Global Seafood Production: Capture Fisheries Vs Aquaculture Farming (R)](https://github.com/Huma2323/Exploring-Global-Seafood-Production)                                       
